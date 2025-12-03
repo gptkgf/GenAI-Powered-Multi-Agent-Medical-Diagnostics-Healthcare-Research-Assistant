@@ -37,9 +37,8 @@
   - [Using Docker](#docker-setup)
   - [Manual Installation](#manual-setup)
 - [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
-- [Citing](#citing)
+
+
 
 
 ----
@@ -369,14 +368,8 @@ python ingest_rag_data.py --dir ./data/raw
 
 ---
 
-## 🤝 Contributions  <a name="contributions"></a>
-Contributions are welcome! Please check the [issues](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
 
----
 
-## ⚖️ License  <a name="license"></a>
-This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LICENSE) file for details.  
 
----
 
 
